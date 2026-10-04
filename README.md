@@ -5,10 +5,14 @@
 ---
 
 ## 🙋 About Me
-- 4+ years at Amazon working in Auto-ML compliance, SQL-based root cause analysis, and process automation
-- Transitioning into Data Analytics with hands-on project experience in Python, Power BI, and SQL
-- M.Tech (Machine Design) | Contributed to ISRO's Gaganyaan program (structural analysis)
-- Recently certified in SQL, Python, Power BI, and AI Generalist (SkilloVilla, 2026)
+- 4+ years at Amazon working in Auto-ML compliance, 
+  SQL-based root cause analysis, and process automation
+- Transitioning into Data Analytics with hands-on project 
+  experience in Python, Power BI, and SQL
+- M.Tech (Machine Design) | Contributed to ISRO's 
+  Gaganyaan program (structural analysis)
+- Recently certified in SQL, Python, Power BI, and 
+  AI Generalist (SkilloVilla, 2026)
 
 ---
 
@@ -25,25 +29,30 @@
 
 ## 📁 Projects
 
-### 🐍 Employee Project Cost & Performance Analysis (Python)
-- Cleaned and merged 3 disconnected datasets, automated bonus calculations
-- Imputed 14.3% missing costs, processed 14 records across 5 employees
+### 🐍 Employee Cost & Performance Analysis
+- Python data cleaning, merging and bonus automation
 - Tools: Python, Pandas, NumPy
+- 📂 [View Repository](https://github.com/Bharathsree96/employee-cost-performance-analysis)
 
-### 📊 ShopNest Store Business Analytics Dashboard (Power BI)
-- Built interactive dashboard across 9 datasets analyzing ~R$16M in e-commerce revenue (2016–2018)
-- Answered 8 business questions on logistics, payments, ratings, and regional expansion
+### 📊 ShopNest Store Business Analytics Dashboard
+- Power BI dashboard analyzing ~R$16M e-commerce revenue
 - Tools: Power BI, DAX, Power Query
+- 📂 [View Repository](https://github.com/Bharathsree96/shopnest-powerbi-dashboard)
 
 ### 🤖 Digital Detox Week — AI-Powered Social Impact Campaign
-- Designed the E.M.P.A.T.H. Prompt Framework for ethical AI campaign messaging
-- Built n8n automation workflow: Webhook → Google Sheets → conditional logic → Gmail (3 audience segments)
+- E.M.P.A.T.H framework + n8n automation workflow
 - Tools: ChatGPT, Claude, Gemini, n8n, Google Sheets, Gmail API
+- 📂 [View Repository](https://github.com/Bharathsree96/digital-detox-ai-campaign)
 
-### 🚀 Structural Design of Crew Module — ISRO Gaganyaan (M.Tech)
-- Designed hierarchical isogrid structure for Gaganyaan crew module forward cone
-- Used MATLAB for dimensional computation + ABAQUS for finite element analysis
+### 🚀 ISRO Gaganyaan — Crew Module Structural Analysis
+- Hierarchical isogrid design for Gaganyaan forward cone
 - Tools: MATLAB, ABAQUS
+- 📂 [View Repository](https://github.com/Bharathsree96/isro-gaganyaan-crew-module-structural-analysis)
+
+### ⚙️ Hydrogen IC Engine — Zero Emission via Electrolysis
+- Converted 97.2cc engine to run on hydrogen, zero emissions
+- Tools: Mechanical fabrication, electrolysis system design
+- 📂 [View Repository](https://github.com/Bharathsree96/hydrogen-ic-engine-zero-emission)
 
 ---
 

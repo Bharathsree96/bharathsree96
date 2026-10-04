@@ -30,19 +30,13 @@
 ## 📁 Projects
 
 ### 🐍 Employee Cost & Performance Analysis
-- Python data cleaning, merging and bonus automation
-- Tools: Python, Pandas, NumPy
-- 📂 [View Repository](https://github.com/Bharathsree96/employee-cost-performance-analysis)
+- 📂 [View Repository](https://github.com/Bharathsree96/python-data-analysis)
 
 ### 📊 ShopNest Store Business Analytics Dashboard
-- Power BI dashboard analyzing ~R$16M e-commerce revenue
-- Tools: Power BI, DAX, Power Query
-- 📂 [View Repository](https://github.com/Bharathsree96/shopnest-powerbi-dashboard)
+- 📂 [View Repository](https://github.com/Bharathsree96/power-bi-dashboard)
 
 ### 🤖 Digital Detox Week — AI-Powered Social Impact Campaign
-- E.M.P.A.T.H framework + n8n automation workflow
-- Tools: ChatGPT, Claude, Gemini, n8n, Google Sheets, Gmail API
-- 📂 [View Repository](https://github.com/Bharathsree96/digital-detox-ai-campaign)
+- 📂 [View Repository](https://github.com/Bharathsree96/ai-generalist-capstone)
 
 ### 🚀 ISRO Gaganyaan — Crew Module Structural Analysis
 - Hierarchical isogrid design for Gaganyaan forward cone
